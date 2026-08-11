@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background: white;
+    color: black;
+    transition: o.4s;
+
+}
+.dark{
+    background: #222;
+    color: white
+}
